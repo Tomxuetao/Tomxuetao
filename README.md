@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey there! I'm Tomxuetao
 
-<!--
-**Tomxuetao/Tomxuetao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⭐ I'm an frontend developer.
+- 🔭 I’m currently working in Hangzhou, China
+- 💬 Ask me about anything [here](https://github.com/Tomxuetao/Tomxuetao/issues)
+- 📫 How to reach me: [tomxuetao.xyz](mailto:wangxuetao1007@gmail.com)
 
-Here are some ideas to get you started:
+## 🏆 Github Profile Trophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Tomxuetao&row=1&theme=flat&no-frame=true" alt=""/>
+</a>
+
+---
