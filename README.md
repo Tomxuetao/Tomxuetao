@@ -4,7 +4,7 @@
 - ⭐ I'm an frontend developer.
 - 🔭 I’m currently working in Hangzhou, China
 - 💬 Ask me about anything [here](https://github.com/Tomxuetao/Tomxuetao/issues)
-- 📫 How to reach me: [docs.tomxuetao.xyz/]([https://tomxuetao.xyz](https://docs.tomxuetao.xyz/))
+- 📫 How to reach me: [docs.tomxuetao.xyz/](https://docs.tomxuetao.xyz/)
 
 ## 🏆 Github Profile Trophy
 
